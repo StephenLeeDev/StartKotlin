@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StartKotiln</string>
+    <string name="main_title">Let`s find out\nyour love type!</string>
+    <string name="question">There were favorite flowers\nin the flower base.\nAs time goes, the flowers\nhave all withered.\nWhat are you going to do with that?</string>
+    <string name="first_question">1. Throw it away.</string>
+    <string name="second_question">2. Water the flowers.</string>
+    <string name="third_question">3. Cut it off with sissors.</string>
+    <string name="fourth_question">4. Make them as dried flower.</string>
+    <string name="quitter">You are a quitter!</string>
+    <string name="detail">May be you give up on\nlove too easily...</string>
+</resources>
